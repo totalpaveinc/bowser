@@ -1,3 +1,5 @@
+TotalPave's fork is deprecaed -- return back to the original package: https://github.com/bowser-js/bowser
+
 ## Bowser
 A small, fast and rich-API browser/platform/engine detector for both browser and node.
 - **Small.** Use plain ES5-version which is ~4.8kB gzipped.
